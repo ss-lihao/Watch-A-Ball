@@ -15,3 +15,4 @@
 
 # 安卓安装方式
 - 点击安装[看个球](http://kanqiu.me/kanqiu.apk)
+- 方式二安装[看个球](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.apk)
