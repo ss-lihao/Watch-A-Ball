@@ -1,4 +1,4 @@
-- **看个球 | WATCH ABALL** *NBA 高清直播*
+- **看个球** *NBA 高清直播*
 > ![app介绍](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.me.gif)
 
 -  **iOS 安装步骤**
