@@ -1,4 +1,4 @@
-- **看个球 | WATCH ABALL** *高清直播 五大联赛 NBA 中超 CBA 也有冷门小比赛！*
+- **看个球 | WATCH ABALL** *NBA 高清直播*
 > ![app介绍](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.me.gif)
 
 -  **iOS 安装步骤**
