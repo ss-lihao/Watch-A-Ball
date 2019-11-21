@@ -1,6 +1,6 @@
 ### 看个球 | WATCH ABALL
 - *高清直播 五大联赛 NBA 中超 CBA 也有冷门小比赛！*
-![app介绍](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.me.gif)
+> ![app介绍](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.me.gif)
 
 -  **iOS 安装步骤**
     > 首先安装 [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
