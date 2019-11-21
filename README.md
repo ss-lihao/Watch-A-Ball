@@ -5,7 +5,7 @@
 > ![app介绍](https://github.com/nicola-gif/Watch-A-Ball/blob/master/kanqiu.me.gif)
 
 
- # iOS安装步骤 **请确保在Safari中打开这个链接的**
+# iOS安装步骤 
 ### 首先安装TestFlight
 - 点击安装[TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
